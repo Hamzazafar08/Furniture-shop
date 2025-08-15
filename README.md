@@ -50,12 +50,9 @@ Implement backend with Node.js & database.
 
 Add user authentication and account management.
 
-👨‍💻 Author
-
-Hamza Zafar
-GitHub Profile | Portfolio
 
 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it for your own purposes.
+
 
